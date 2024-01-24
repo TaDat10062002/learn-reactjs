@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Ta Dat 2024 quyet dinh hoc reactjs
+          Ta Dat 2024 quyet dinh hoc Reactjs
         </p>
 
       </header>
